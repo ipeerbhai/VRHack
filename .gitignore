@@ -1,0 +1,13 @@
+Durandal/bin/models/
+Durandal/bin/cache/
+Durandal/EchoDemo/obj/
+Durandal/ConsoleClient/obj/
+NeoPixelControl/NeoPixelArduinoInterface/obj/
+NeoPixelControl/NeoPixelArduinoInterface/bin/
+Durandal/bin/ConsoleClient.vshost.exe
+Durandal/pingme.txt
+bin/
+obj/
+packages/
+node_modules/
+.vs/
